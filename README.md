@@ -21,4 +21,4 @@ faq page
 https://github.com/amitesh0303/faq_page
 
 homepage
-https://github.com/amitesh0303/homepage
+https://github.com/amitesh0303/simple_homepage
