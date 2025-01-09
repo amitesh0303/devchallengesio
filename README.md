@@ -7,3 +7,6 @@ https://github.com/amitesh0303/business_blog_card
 
 newsletter
 https://github.com/amitesh0303/newsletter
+
+testimonial page
+https://github.com/amitesh0303/testimonial_page
