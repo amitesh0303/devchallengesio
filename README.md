@@ -22,3 +22,21 @@ https://github.com/amitesh0303/faq_page
 
 homepage
 https://github.com/amitesh0303/simple_homepage
+
+simple article listing
+https://github.com/amitesh0303/simple_article_listing
+
+random quote generator
+https://github.com/amitesh0303/random_quote_generator
+
+simple coffee listing
+https://github.com/amitesh0303/simple_coffee_listing
+
+music player
+https://github.com/amitesh0303/music_player
+
+simple product page
+https://github.com/amitesh0303/simple_product_page
+
+simple feature section
+https://github.com/amitesh0303/simple_feature_section
