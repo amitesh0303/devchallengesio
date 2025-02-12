@@ -1,4 +1,5 @@
 # devchallengesio
+###Beginner
 minimal blog card
 https://github.com/amitesh0303/minimal_blog_card
 
@@ -26,6 +27,9 @@ https://github.com/amitesh0303/simple_homepage
 simple article listing
 https://github.com/amitesh0303/simple_article_listing
 
+simple feature section
+https://github.com/amitesh0303/simple_feature_section
+### Junior
 random quote generator
 https://github.com/amitesh0303/random_quote_generator
 
@@ -38,5 +42,27 @@ https://github.com/amitesh0303/music_player
 simple product page
 https://github.com/amitesh0303/simple_product_page
 
-simple feature section
-https://github.com/amitesh0303/simple_feature_section
+qr code generator
+###Mid
+bank dashboard
+
+github
+
+translate
+
+movie search app
+
+property listing
+
+recipe page
+
+ai chatbot
+
+###Upper-mid
+my task board
+
+weather app
+
+task manager app
+###Senior
+ai image generator
