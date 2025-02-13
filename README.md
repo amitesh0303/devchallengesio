@@ -43,6 +43,8 @@ simple product page
 https://github.com/amitesh0303/simple_product_page
 
 qr code generator
+
+
 ###Mid
 bank dashboard
 
@@ -59,6 +61,7 @@ recipe page
 ai chatbot
 
 ###Upper-mid
+
 my task board
 
 weather app
