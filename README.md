@@ -1,5 +1,5 @@
 # devchallengesio
-###Beginner
+### Beginner
 minimal blog card
 https://github.com/amitesh0303/minimal_blog_card
 
@@ -45,7 +45,7 @@ https://github.com/amitesh0303/simple_product_page
 qr code generator
 
 
-###Mid
+### Mid
 bank dashboard
 
 github
@@ -60,7 +60,7 @@ recipe page
 
 ai chatbot
 
-###Upper-mid
+### Upper-mid
 
 my task board
 
