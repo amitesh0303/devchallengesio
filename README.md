@@ -23,6 +23,7 @@ https://github.com/amitesh0303/faq_page
 
 homepage
 https://github.com/amitesh0303/simple_homepage
+implement darkmode
 
 simple article listing
 https://github.com/amitesh0303/simple_article_listing
