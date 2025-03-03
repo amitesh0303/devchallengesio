@@ -68,5 +68,5 @@ my task board
 weather app
 
 task manager app
-###Senior
+### Senior
 ai image generator
